@@ -2,7 +2,7 @@
 
 Nosso trabalho tem a interface de um jogo que se passa no velho-oeste, onde o objetivo do jogador é viajar entre cidades e obter dinheiro vendendo e comprando produtos variados. Adaptamos a ideia da arbitragem financeira, que lida com ativos financeiros, para uma ideia mais interessante e um pouco mais complexa, pois agora temos custos de viagem e uma maior análise para obter o lucro. 
 
-<img width="1493" height="773" alt="mapa" src="https://github.com/user-attachments/assets/ac2a37e7-a18d-4768-ad35-ef836fe89876" />
+<img width="1493" height="773" alt="mapa" src="/mapa.png" />
 
 Algoritmos/Conceitos usados: 
 - Floyd Warshall: utilizando esse algoritmo, conseguimos, assim que geramos o mapa, obter as distâncias mínimas entre todos os pares de vértices(cidades).
